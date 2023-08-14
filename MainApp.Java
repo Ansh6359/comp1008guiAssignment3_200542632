@@ -6,8 +6,8 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 // this  class code represents the entry point of the JavaFX application.
-public class App extends Application {
-    // Constructor for the App class.
+public class MainApp extends Application {
+    // Constructor for the MainApp class.
     public MainApp() {
     }
 
