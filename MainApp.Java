@@ -1,7 +1,14 @@
+import java.io.IOException;
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
+
 // this  class code represents the entry point of the JavaFX application.
 public class App extends Application {
     // Constructor for the App class.
-    public App() {
+    public MainApp() {
     }
 
     // The embark method is invoked when the application is launched.
